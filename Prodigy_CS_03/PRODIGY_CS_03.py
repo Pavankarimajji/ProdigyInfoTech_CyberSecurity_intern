@@ -1,3 +1,5 @@
+'''PASSWORD COMPLEXITY CHECKER'''
+
 from termcolor import colored
 import pyfiglet
 
