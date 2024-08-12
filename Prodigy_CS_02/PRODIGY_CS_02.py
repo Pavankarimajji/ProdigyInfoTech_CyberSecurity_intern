@@ -1,3 +1,6 @@
+#Pixel Manipulation for Image Encryption
+#task2
+
 from PIL import Image
 from termcolor import colored
 
